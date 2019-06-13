@@ -6,3 +6,6 @@ end
   
   bob.back_project(awesome_project)
 end
+
+awesome_project.backers
+end
